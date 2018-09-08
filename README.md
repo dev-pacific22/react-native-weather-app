@@ -2,10 +2,10 @@
 
  This is the React-native mobile app where you can select Contry, State and City and you will get the weather details for that city. 
 
-![Scheme](screenshots/Screenshot_2018-09-08-20-47-59-962_com.weatherapp.png)
-![Scheme](screenshots/Screenshot_2018-09-08-20-48-08-144_com.weatherapp.png)
-![Scheme](screenshots/Screenshot_2018-09-08-20-48-53-556_com.weatherapp.png)
-![Scheme](screenshots/Screenshot_2018-09-08-20-48-45-061_com.weatherapp.png)
+![Screenshot](screenshots/Screenshot_2018-09-08-20-47-59-962_com.weatherapp.png)
+![Screenshot](screenshots/Screenshot_2018-09-08-20-48-08-144_com.weatherapp.png)
+![Screenshot](screenshots/Screenshot_2018-09-08-20-48-53-556_com.weatherapp.png)
+![Screenshot](screenshots/Screenshot_2018-09-08-20-48-45-061_com.weatherapp.png)
 
 #### Pre-requsites: 
  
